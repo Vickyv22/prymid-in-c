@@ -10,7 +10,7 @@ int sum_of_digit(int n)
 
 int main()
 {
-	int num = 12345;
+	int num = 1234;
 	int result = sum_of_digit(num);
 	cout << "Sum of digits in "<< num
 	<<" is "<<result << endl;
